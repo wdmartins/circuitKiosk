@@ -23,7 +23,7 @@
     "@google-cloud/speech": "^4.1.1",
     "bunyan": "^1.8.14",
     "circuit-sdk": "^1.2.8401",
-    "electron": "^7.2.4",
+    "electron": "^9.4.0",
     "electron-log": "^2.2.14",
     "extend": "^3.0.2",
     "file-api": "^0.10.4",
